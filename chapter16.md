@@ -47,15 +47,15 @@ bash
 Kopyala
 Düzenle
 ss -tuln
-🔄 Örnekler
+Örnekler
 bash
 Kopyala
 Düzenle
-# Ağ arayüzünü kapatıp açmak
+ Ağ arayüzünü kapatıp açmak
 sudo ip link set eth0 down
 sudo ip link set eth0 up
 bash
 Kopyala
 Düzenle
-# Basit ping testi
+ Basit ping testi
 ping -c 4 8.8.8.8
