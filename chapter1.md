@@ -1,8 +1,8 @@
 # Chapter 1: Linux Dağıtım Aileleri
 
-Linux dünyasında birçok farklı dağıtım (distribution) vardır. Bu dağıtımlar genellikle üç büyük aile altında toplanır:
+Linux dünyasında birçok farklı dağıtım vardır Bu dağıtımlar genellikle üç büyük aile altında toplanı
 
----
+
 
 Debian Ailesi
 
