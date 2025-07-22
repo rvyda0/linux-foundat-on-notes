@@ -1,4 +1,4 @@
-# Chapter 10 – Process Control
+Chapter 10 
 
  Amaç
 Linux'ta çalışan işlemleri nasıl kontrol edeceğimizi, arka plan ve ön plan yönetimini, sinyal gönderme (kill komutu gibi) ve job yönetimini öğrenmek.
