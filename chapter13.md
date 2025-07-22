@@ -1,27 +1,23 @@
-# Chapter 13 – Networking and Security
-
-## 🎯 Amaç  
+Chapter 13 – Networking and Security
+Amaç  
 Linux sistemlerde ağ yapılandırması, temel ağ komutları ve güvenlik kavramlarını öğrenmek.
-
-## 🧩 Temel Konular
-
-- **Ağ Yapılandırması:**  
+Temel Konular
+Ağ Yapılandırması:
   - IP adresleri, subnet mask, gateway ayarları  
   - `ifconfig`, `ip` komutları ile ağ arayüzü yönetimi  
-- **DNS ve Hostname:**  
+  DNS ve Hostname:
   - `/etc/hosts`, `/etc/resolv.conf` dosyaları  
   - `hostname` komutu  
-- **Temel Ağ Komutları:**  
+  Temel Ağ Komutları:
   - `ping`, `traceroute`, `netstat`, `ss`  
   - `curl`, `wget`  
-- **Firewall ve Güvenlik:**  
+Firewall ve Güvenlik:
   - `iptables`, `firewalld` ile temel firewall ayarları  
   - `ufw` basit firewall yönetimi  
-- **SSH:**  
+  SSH: 
   - Güvenli uzak bağlantı için SSH kullanımı  
   - `ssh`, `scp`, `sftp` komutları  
-
-## 🔄 Örnekler
+Örnekler
 
 ```bash
 # Ağ arayüzlerini listele
