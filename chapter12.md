@@ -1,9 +1,9 @@
-# Chapter 12 – Shell Scripting and Automation
+ Chapter 12 – Shell Scripting and Automation
 
-## 🎯 Amaç  
+ Amaç  
 Linux kabuk (shell) script’leri yazarak otomasyon sağlamak, temel yapıları ve yaygın kullanılan komutları öğrenmek.
 
-## 🧩 Temel Konseptler  
+ Temel Konseptler  
 
 - **Shell Script**: Komutların yazıldığı dosya, otomatik olarak komutları çalıştırır.  
 - **Yorum Satırı**: `#` ile başlayan satırlar, script içinde açıklama için kullanılır.  
@@ -18,7 +18,7 @@ Linux kabuk (shell) script’leri yazarak otomasyon sağlamak, temel yapıları 
   chmod +x script.sh
   ./script.sh
 #!/bin/bash
-# Basit bir script örneği
+Basit bir script örneği
 
 echo "Merhaba, kullanıcı!"
 read isim
