@@ -1,9 +1,8 @@
-# Chapter 14 – System Maintenance and Troubleshooting
+Chapter 14 – System Maintenance and Troubleshooting
 
-## 🎯 Amaç  
+Amaç  
 Linux sistemlerde bakım işlemleri, hata tespiti ve çözüm yöntemlerini öğrenmek.
-
-## 🧩 Temel Konular
+ Temel Konular
 
 - Sistem loglarını inceleme (`/var/log/` dizini, `journalctl`)  
 - Disk alanı ve kullanım kontrolü (`df`, `du`)  
@@ -12,7 +11,7 @@ Linux sistemlerde bakım işlemleri, hata tespiti ve çözüm yöntemlerini öğ
 - Problem giderme araçları (`strace`, `lsof`, `dmesg`)  
 - Yedekleme ve geri yükleme yöntemleri  
 
-## 🔄 Örnek Komutlar
+ Örnek Komutlar
 
 ```bash
 # Disk kullanımını kontrol et
