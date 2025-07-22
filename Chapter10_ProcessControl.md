@@ -1,9 +1,9 @@
 # Chapter 10 – Process Control
 
-## 🎯 Amaç
+ Amaç
 Linux'ta çalışan işlemleri nasıl kontrol edeceğimizi, arka plan ve ön plan yönetimini, sinyal gönderme (kill komutu gibi) ve job yönetimini öğrenmek.
 
-## 🧩 Temel Komutlar
+ Temel Komutlar
 
 | Komut           | Açıklama                                |
 |-----------------|----------------------------------------|
@@ -17,7 +17,7 @@ Linux'ta çalışan işlemleri nasıl kontrol edeceğimizi, arka plan ve ön pla
 | `kill -9 PID`   | SIGKILL sinyali (zorla sonlandırma)      |
 | `nice` / `renice` | İşlem önceliğini ayarlamak             |
 
-## 🔄 Örnek Senaryolar
+ Örnek Senaryolar
 
 - Bir komutu arka planda çalıştır:
 
