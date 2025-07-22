@@ -1,12 +1,12 @@
-1. Shell Script Nedir?
-Bir veya daha fazla komutun sırayla çalıştırıldığı, genellikle .sh uzantılı dosyalar. Otomasyon ve tekrar eden işleri kolaylaştırır.
+Shell Script Nedir
+Bir veya daha fazla komutun sırayla çalıştırıldığıgenellikle .sh uzantılı dosyalar Otomasyon ve tekrar eden işleri kolaylaştırır.
 
-2. Script Yapısı
-Shebang: Script’in hangi yorumlayıcı ile çalışacağını belirtir. Genelde #!/bin/bash kullanılır.
+Script Yapısı
+Shebang: Script’in hangi yorumlayıcı ile çalışacağını belirti
 
-Yorum Satırları: # işareti ile başlayan satırlar, script tarafından okunmaz ama açıklama amaçlıdır.
+ # işareti ile başlayan satırlar script tarafından okunmaz ama açıklama amaçlıdır
 
-3. Değişkenler
+Değişkenler
 Değişken tanımlama: isim="ruveyda"
 
 Kullanım: $isim veya ${isim}
@@ -96,13 +96,13 @@ cron
 Kopyala
 Düzenle
 0 3 * * * /home/kullanici/backup.sh
-🔄 Örnek Script
+Örnek Script
 bash
 Kopyala
 Düzenle
 #!/bin/bash
 
-# Basit yedekleme scripti
+ Basit yedekleme scripti
 kaynak="/home/kullanici/dosyalar"
 hedef="/home/kullanici/yedekler"
 
