@@ -78,13 +78,3 @@ echo ""
 echo "8. man komutu → Yardım sayfası açar (çıkmak için q)"
 read -p "ls komutu için yardım sayfasını görmek için Enter'a basın..."
 man ls
-
-# 9. which ile program kontrolü
-echo ""
-echo "9. Programın sistemde olup olmadığını kontrol etme"
-read -p "Kontrol etmek istediğiniz komut adını girin: " program
-which "$program" &>/dev/null && echo "✅ $program yüklü." || echo "❌ $program bulunamadı."
-
-# Eğitim Sonu
-clear
-echo "✅ GENEL TEKRAR tamamlandı. Linux komutlarını denemeye devam edin!"
