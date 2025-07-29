@@ -1,1 +1,0 @@
-# Linux Foundation Kurs Notları
